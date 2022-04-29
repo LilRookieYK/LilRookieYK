@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LilRookieYK
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning MySQL, html, python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning html, css, js
 - 📫 How to reach me on instagram _yashya_
 
 <!---
